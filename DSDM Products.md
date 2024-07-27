@@ -203,4 +203,4 @@ Roles and Responsibilities:
         Business Visionary: Ensures the solution is fit for business purposes.
         Technical Coordinator: Ensures the solution is technically fit for purpose.
         Team Leader: Ensures the Iterative Development process is focused and controlled, and all testing and review activities are conducted.
-        Business Sponsor: Responsible for the return on investmen
+        Business Sponsor: Responsible for the return on investment
