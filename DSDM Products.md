@@ -104,3 +104,103 @@ Roles and Responsibilities:
     Approved By:
         Business Sponsor: Project champion responsible for ensuring a return on investment.
 
+*Foundation Summary*
+
+The Foundation Summary is a milestone document providing a snapshot of the evolving business, solution, and management products at the end of the Foundations phase. Each product should be mature enough to inform the decision on whether the project is likely to deliver the required return on investment. It may be presented as a baselined collection of products or an executive summary of key aspects.
+
+Roles and Responsibilities:
+
+    Produced By:
+        Project Manager: Responsible for project management and control.
+    Produced For:
+        Project Governance Authority: Decides whether the project should proceed as proposed.
+    Approved By:
+        Business Sponsor: Project champion responsible for ensuring a return on investment.
+
+*Evolving Solution*
+
+The Evolving Solution is a dynamic product comprising all appropriate components of the final solution and any intermediate deliverables necessary to explore requirements and the solution under construction. Components can be complete, a baseline of a partial solution (Solution Increment), or work in progress, and may include models, prototypes, supporting materials, and testing and review artifacts.
+
+At the end of each Project Increment, the Solution Increment is deployed into live use, becoming the Deployed Solution.
+
+Roles and Responsibilities:
+
+    Produced By:
+        Solution Development Team: Creates a solution that satisfies the requirements in the PRL.
+    Produced For:
+        Business Sponsor: Ensures the return on investment.
+        Solution Participants: Users of the end-products and part of the live business use.
+    Approved By:
+        Business Visionary: Ensures the solution is fit for business purposes.
+        Technical Coordinator: Ensures the solution is technically fit for purpose.
+
+*Timebox Plan*
+
+The Timebox Plan is an evolutionary product that provides depth and detail for each Timebox identified in the Delivery Plan. It elaborates on the objectives provided for that Timebox and details the deliverables of that Timebox, along with the activities to produce those deliverables and the resources to do the work. The Timebox Plan is created by the Solution Development Team and is often represented on a Team Board as work to do, in progress, and done. It is updated at least on a daily basis at the Daily Stand-ups.
+
+Roles and responsibilities
+
+Role Rationale
+
+Produced by Solution Development Team Responsible for self-organising to 'say what they will do'
+
+Produced for Solution Development Team Responsible for self-organising and doing what they said they would do
+
+Approved by Project Manager Technical Manager Jointly responsible for acknowledging that the team are properly focussed on the timely delivery of a fit-for-purpose Solution Increment
+
+*Timebox Review Record*
+
+The Timebox Review Record is a dynamic document that captures feedback from each review conducted during a Timebox. It details achievements up to that point and any feedback that may impact future plans. In regulated environments, it includes a formal, auditable record of review comments from expert Business Advisors and other roles, making it a governance product.
+
+Roles and Responsibilities:
+
+    Produced By:
+        Team Leader: Ensures the Iterative Development process is focused, controlled, and that all testing and review activities are properly conducted.
+    Produced For:
+        Project Governance Authority: Requires assurance that development is properly controlled and all testing and review activities are conducted correctly.
+        Project Manager: Tracks progress toward delivering the final solution.
+    Approved By:
+        Business Visionary: Confirms that the Evolving Solution Increment remains fit for business purposes.
+        Technical Coordinator: Confirms that the Evolving Solution Increment remains fit for technical purposes.
+
+*Project Review Report*
+
+The Project Review Report is a milestone document updated incrementally at the end of each Project Increment. It serves multiple purposes:
+
+    Captures feedback from the review of the delivered solution, confirming what has and has not been delivered.
+    Records learning points from the retrospective, focusing on the process, practices, and roles involved.
+    Describes the business benefits expected from the delivered solution.
+
+At the end of the final Project Increment, a comprehensive project retrospective is conducted, informed by the records for each Increment.
+
+Roles and Responsibilities:
+
+    Produced By:
+        Project Manager: Overall responsibility for the project and delivery of its products.
+    Produced For:
+        All Project Participants and Stakeholders: Interested in achievements, value delivered, and future learnings.
+        Those Supporting Future Projects (e.g., PMO): Interested in learnings for future projects.
+    Approved By:
+        Business Visionary: Ensures the solution is fit for business purposes.
+        Technical Coordinator: Ensures the solution is technically fit for purpose.
+        Team Leader: Ensures the Iterative Development process is focused, controlled, and that all testing and review activities are conducted properly.
+
+*Benefits Assessment*
+
+The Benefits Assessment is a milestone document that details how the benefits of a project have materialized following a period of live operation. For projects where benefits are expected to accrue over an extended period, multiple Benefits Assessments may be produced periodically, aligned with the investment justification timeframe.
+
+Roles and Responsibilities:
+
+    Produced By:
+        Project Manager: Overall responsibility for the project and delivery of its products.
+        Business Visionary: Translates the business vision into working practice.
+        Business Analyst: Ensures benefits are assessed against the Business Case and business needs.
+    Produced For:
+        All Project Participants and Stakeholders: Interested in achievements, delivered value, and future learnings.
+        Those Supporting Future Projects (e.g., PMO): Interested in learnings for future projects.
+        Project Governance Authority: Needs to understand if the project investment was justified and the differences between predicted and accrued value.
+    Approved By:
+        Business Visionary: Ensures the solution is fit for business purposes.
+        Technical Coordinator: Ensures the solution is technically fit for purpose.
+        Team Leader: Ensures the Iterative Development process is focused and controlled, and all testing and review activities are conducted.
+        Business Sponsor: Responsible for the return on investmen
