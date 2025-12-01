@@ -13,15 +13,15 @@ Project Increments: Formally reviewed to decide on the justification for continu
 
 **Roles and Responsibilities:**
 
-Produced By: Business Analyst (due to their expertise and collaboration skills).  
+Produced by: Business Analyst (due to their expertise and collaboration skills).  
 Produced For:  
-    Project Governance Authority (for project approval and prioritization).  
+    Project Governance Authority (for project approval and prioritisation).  
     Entire project team (to ensure everyone understands the project's needs and rationale).  
 Approved By: Business Sponsor (responsible for ensuring a return on investment).
 
 # The Prioritised Requirement List
 
-The Prioritised Requirement List (PRL) is a dynamic document outlining the project's high-level requirements and their priority to meet the project's objectives and business needs.
+The Prioritised Requirement List (PRL) is a dynamic document that outlines the project's high-level requirements and their priorities to meet the project's objectives and business needs.
 
 **Key Points:**
 
@@ -32,9 +32,9 @@ Evolution: Changes in detail occur naturally; significant changes to high-level 
 
 **Roles and Responsibilities:**
 
-Produced By: Business Analyst (due to their skills in eliciting and defining requirements).  
-Produced For: Entire project team (to ensure everyone understands the requirements).  
-Approved By: Business Visionary (responsible for aligning requirements with the business vision).
+Produced by: Business Analyst (due to their skills in eliciting and defining requirements).  
+Produced for: Entire project team (to ensure everyone understands the requirements).  
+Approved by: Business Visionary (responsible for aligning requirements with the business vision).
 
 # Solution Architecture Definition
 
@@ -43,17 +43,17 @@ The Solution Architecture Definition is a dynamic document providing a high-leve
 **Roles and Responsibilities:**
 
 Produced By:  
-    Business Analyst: Oversees the design of business processes and organizational changes.  
-    Technical Coordinator: Ensures the design and integrity of the technical aspects of the solution.  
+    Business Analyst: Oversees the design of business processes and organisational changes.  
+    Technical Coordinator: Ensures the design and integrity of the solution's technical aspects.  
 Produced For:  
-    Solution Development Team: Utilizes the framework to build the solution.  
+    Solution Development Team: Utilises the framework to build the solution.  
 Approved By:  
     Business Visionary: Ensures the solution delivers the required business change.  
     Project Manager: Ensures the project delivers its intended products.
 
 # Development Approach Definition
 
-The Development Approach Definition is a dynamic document outlining the tools, techniques, customs, practices, and standards for the evolutionary development of a solution. It also details how the quality of the solution will be assured, including strategies for testing and review.
+The Development Approach Definition is a dynamic document outlining the tools, techniques, customs, practices, and standards for the evolutionary development of a solution. It also details how the solution's quality will be assured, including strategies for testing and review.
 
 **Roles and Responsibilities:**
 
@@ -66,7 +66,7 @@ Approved By:
 
 # Delivery Plan
 
-The Delivery Plan is a dynamic document providing a high-level schedule of Project Increments and, for the first or imminent Increment, Timeboxes that comprise it. It typically does not include task-level details unless tasks are handled by individuals outside the Solution Development Team or before the team is formed.
+The Delivery Plan is a dynamic document that provides a high-level schedule of Project Increments and, for the first or imminent Increment, the Timeboxes that comprise it. It typically does not include task-level details unless tasks are handled by individuals outside the Solution Development Team or before the team is formed.
 
 **Roles and Responsibilities:**
 
@@ -80,7 +80,7 @@ Approved By:
 
 # Management Approach Definition
 
-The Management Approach Definition is a dynamic document outlining the overall management strategy for the project. It details how the project will be organized and planned, stakeholder engagement, and how progress will be demonstrated and reported. Initially outlined in Feasibility and baselined at the end of Foundations, it evolves only when circumstances change or if reviews identify areas for improvement.
+The Management Approach Definition is a dynamic document that outlines the project's overall management strategy. It details how the project will be organised and planned, stakeholder engagement, and how progress will be demonstrated and reported. Initially outlined in Feasibility and baselined at the end of Foundations, it evolves only when circumstances change or if reviews identify areas for improvement.
 
 **Roles and Responsibilities:**
 
@@ -93,7 +93,7 @@ Approved By:
 
 # Feasibility Assessment
 
-The Feasibility Assessment is a milestone document that provides a snapshot of the evolving business, solution, and management products at the end of the Feasibility phase. Each product should be mature enough to inform the decision on the project's feasibility. It may be presented as a baselined collection of products or an executive summary covering key aspects of each.
+The Feasibility Assessment is a milestone document that provides a snapshot of the evolving business, solution, and management products at the end of the Feasibility phase. Each product should be mature enough to inform the decision on the project's feasibility. It may be presented as a baseline collection of products or an executive summary covering key aspects of each.
 
 **Roles and Responsibilities:**
 
@@ -106,7 +106,7 @@ Approved By:
 
 # Foundation Summary
 
-The Foundation Summary is a milestone document providing a snapshot of the evolving business, solution, and management products at the end of the Foundations phase. Each product should be mature enough to inform the decision on whether the project is likely to deliver the required return on investment. It may be presented as a baselined collection of products or an executive summary of key aspects.
+The Foundation Summary is a milestone document providing a snapshot of the evolving business, solution, and management products at the end of the Foundations phase. Each product should be mature enough to inform the decision on whether the project is likely to deliver the required return on investment. It may be presented as a baseline product collection or an executive summary of key aspects.
 
 **Roles and Responsibilities:**
 
@@ -119,7 +119,7 @@ Approved By:
 
 # Evolving Solution
 
-The Evolving Solution is a dynamic product comprising all appropriate components of the final solution and any intermediate deliverables necessary to explore requirements and the solution under construction. Components can be complete, a baseline of a partial solution (Solution Increment), or work in progress, and may include models, prototypes, supporting materials, and testing and review artifacts.
+The Evolving Solution is a dynamic product comprising all appropriate components of the final solution and any intermediate deliverables necessary to explore requirements and the solution under construction. Components can be complete, a baseline of a partial solution (Solution Increment), or work in progress, and may include models, prototypes, supporting materials, and testing and review artefacts.
 
 At the end of each Project Increment, the Solution Increment is deployed into live use, becoming the Deployed Solution.
 
@@ -136,28 +136,28 @@ Approved By:
 
 # Timebox Plan
 
-The Timebox Plan is an evolutionary product that provides depth and detail for each Timebox identified in the Delivery Plan. It elaborates on the objectives provided for that Timebox and details the deliverables of that Timebox, along with the activities to produce those deliverables and the resources to do the work. The Timebox Plan is created by the Solution Development Team and is often represented on a Team Board as work to do, in progress, and done. It is updated at least on a daily basis at the Daily Stand-ups.
+The Timebox Plan is an evolutionary product that provides depth and detail for each Timebox identified in the Delivery Plan. It elaborates on the objectives for that Timebox and details its deliverables, along with the activities to produce them and the resources required to do the work. The Solution Development Team creates the Timebox Plan and is often represented on a Team Board as work to do, in progress, and done. It is updated at least daily during the Daily Stand-ups.
 
 **Roles and Responsibilities:**
 
 Role Rationale
 
-Produced by Solution Development Team Responsible for self-organising to 'say what they will do'
+Produced by the Solution Development Team, Responsible for self-organising to 'say what they will do'
 
-Produced for Solution Development Team Responsible for self-organising and doing what they said they would do
+Produced for the  Solution Development Team, Responsible for self-organising and doing what they said they would do
 
-Approved by Project Manager Technical Manager Jointly responsible for acknowledging that the team are properly focussed on the timely delivery of a fit-for-purpose Solution Increment
+Approved by the Project Manager and the Technical Manager. Jointly responsible for acknowledging that the team are appropriately focused on the timely delivery of a fit-for-purpose Solution Increment
 
 # Timebox Review Record
 
-The Timebox Review Record is a dynamic document that captures feedback from each review conducted during a Timebox. It details achievements up to that point and any feedback that may impact future plans. In regulated environments, it includes a formal, auditable record of review comments from expert Business Advisors and other roles, making it a governance product.
+The Timebox Review Record is a dynamic document that captures feedback from each review conducted during a Timebox. It details achievements up to that point and any feedback that may impact plans. In regulated environments, it includes a formal, auditable record of review comments from expert Business Advisors and other roles, making it a governance product.
 
 **Roles and Responsibilities:**
 
 Produced By:  
     Team Leader: Ensures the Iterative Development process is focused, controlled, and that all testing and review activities are properly conducted.  
 Produced For:  
-    Project Governance Authority: Requires assurance that development is properly controlled and all testing and review activities are conducted correctly.  
+    Project Governance Authority: Requires assurance that development is adequately controlled and all testing and review activities are conducted correctly.  
     Project Manager: Tracks progress toward delivering the final solution.  
 Approved By:  
     Business Visionary: Confirms that the Evolving Solution Increment remains fit for business purposes.  
@@ -179,7 +179,7 @@ Produced By:
     Project Manager: Overall responsibility for the project and delivery of its products.  
 Produced For:  
     All Project Participants and Stakeholders: Interested in achievements, value delivered, and future learnings.  
-    Those Supporting Future Projects (e.g., PMO): Interested in learnings for future projects.  
+    Those Supporting Future Projects (e.g., PMO): Interested in learning for future projects.  
 Approved By:  
     Business Visionary: Ensures the solution is fit for business purposes.  
     Technical Coordinator: Ensures the solution is technically fit for purpose.  
@@ -187,7 +187,7 @@ Approved By:
 
 # Benefits Assessment
 
-The Benefits Assessment is a milestone document that details how the benefits of a project have materialized following a period of live operation. For projects where benefits are expected to accrue over an extended period, multiple Benefits Assessments may be produced periodically, aligned with the investment justification timeframe.
+The Benefits Assessment is a milestone document that details how the benefits of a project have materialised following a period of live operation. For projects where benefits are expected to accrue over an extended period, multiple Benefits Assessments may be produced periodically, aligned with the investment justification timeframe.
 
 **Roles and Responsibilities:**
 
@@ -197,8 +197,8 @@ Produced By:
     Business Analyst: Ensures benefits are assessed against the Business Case and business needs.  
 Produced For:  
     All Project Participants and Stakeholders: Interested in achievements, delivered value, and future learnings.  
-    Those Supporting Future Projects (e.g., PMO): Interested in learnings for future projects.  
-    Project Governance Authority: Needs to understand if the project investment was justified and the differences between predicted and accrued value.  
+    Those Supporting Future Projects (e.g., PMO): Interested in learning for future projects.  
+    Project Governance Authority: Needs to determine whether the project investment was justified and identify the differences between predicted and accrued value.  
 Approved By:  
     Business Visionary: Ensures the solution is fit for business purposes.  
     Technical Coordinator: Ensures the solution is technically fit for purpose.  
