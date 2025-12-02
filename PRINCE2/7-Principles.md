@@ -1,5 +1,6 @@
 ## Define roles and responsibilities
 Everyone involved must know what they are responsible for and what authority they hold. In practice, this avoids confusion, speeds up decisions, and ensures accountability throughout the project.
+
 A simple tool such as a RACI matrix can help clarify who is responsible, accountable, consulted, and informed for each significant activity.
 
 ## Ensure continued business justification
@@ -9,7 +10,9 @@ A project should only continue if it still makes sense financially, strategicall
 Start with a clear understanding of what needs to be delivered before planning the work. In practice, this means defining the outputs, quality expectations and acceptance criteria early, so delivery stays aligned with real needs.
 
 Remember:
+
 **Management Products:** These are the project artefacts, documents and reports. Each should have a clear product description so anyone can understand its purpose and content, regardless of technical background.
+
 **Specialist Products:** These are the actual deliverables the stakeholder will use, whether tangible or intangible. Their product descriptions must be written so a new person with little prior context can recognise what the product is and what it must achieve.
 
 ## Learn from experience
